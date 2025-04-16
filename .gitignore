@@ -1,0 +1,8 @@
+# Ignore JetBrains IDE config
+.idea/
+
+# Ignore Visual Studio config
+.vs/
+
+# Ignore all x64 directories recursively
+**/x64/
